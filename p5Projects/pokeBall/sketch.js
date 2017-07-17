@@ -17,7 +17,7 @@ function setup() {
     // //This comand is for the circle after it.
     // fill("red");
     
-    // // The angles are the 5th and 6th parameters it starts at the fifth parameter and goes colckwise to the 6th parameter
+    // // The angles are the 5tcodeh and 6th parameters it starts at the fifth parameter and goes colckwise to the 6th parameter
     // arc(width/2, length/2 + 110, 200, 200, PI, 0, CHORD);
     // // I assume CHORD is a constant
 
