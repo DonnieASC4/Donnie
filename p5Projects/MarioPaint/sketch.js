@@ -10,7 +10,7 @@ function setup() {
 
 // Changes the color (Happens when the mouse clicks a shape)
 function mouseClicked() {
-    shape.fill(random(255), random(255), random(255));
+    shape.mouseClicked(ColorChange);
     
 }
 
