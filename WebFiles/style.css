@@ -1,0 +1,61 @@
+
+    #oprah {
+        position: fixed;
+        bottom: 150;
+        left: 70;
+
+    }
+
+    #heart {
+        position: fixed;
+        bottom: 150;
+        left: 370;
+    }
+
+     #game {
+         position: fixed;
+         bottom: 150;
+         left: 570;
+     }
+
+     #Microsoft {
+         width: 170;
+         height:170;
+         position: fixed;
+         left: 145px;
+         top: 0px;
+     }
+
+    
+
+     #YBOX {
+        width: 150;
+        height: 150;
+        position: fixed;
+        left:0;
+        top: 0;
+        
+     }
+
+     .topPictures {
+         background-color: green;
+
+     }
+
+     head {
+         background: green;
+     }
+
+     p {
+         display:block;
+         color: silver;
+     }
+
+     h1 {
+         color: silver;
+     }
+   
+
+    body {
+        background-color: black;
+    }

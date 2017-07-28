@@ -1,0 +1,50 @@
+header {
+    text-align: center;
+    font-family: "Fixedsys Regular", regular, sans-serif;
+}
+
+#top {
+    height: 150px;
+    font-size: 50px;
+    color: white;
+    text-shadow: 4px 4px black;
+    background: url("http://www.redmoonrising.com/images/stars.jpg");
+    background-size: cover;
+    background-position: center;
+    line-height: 150px;
+    
+}
+
+@media (max-width: 500px) {
+    #top {
+        font-size:35px;
+    }
+}
+
+@media (min-width: 501px) {
+    #top {
+        font-size: 50px
+    }
+}
+
+#mid {
+    border: 5px solid white;
+    font-size: 30px;
+    color: red
+}
+
+body {
+    background: black;
+    
+}
+
+
+
+#NoMargin {
+    margin: 0px;
+}
+
+p {
+    color:white;
+    margin: 0px
+}
